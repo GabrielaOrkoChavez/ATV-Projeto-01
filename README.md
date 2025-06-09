@@ -11,3 +11,8 @@ Rota DELETE:
 ![{53032934-B6A2-4D69-AE70-723672EA49BD}](https://github.com/user-attachments/assets/f5b72779-11a2-474f-8e8c-8199c55f0329)
 
 ![{397C233A-DBD1-4C8A-88AF-634A58696A93}](https://github.com/user-attachments/assets/4bfa99af-7cbd-4a2c-b61f-be4beabca557)
+
+
+Get:
+
+![{6B554951-A520-4D8D-875F-342FB5AADB67}](https://github.com/user-attachments/assets/399204da-8e08-4577-a0fc-033beb7a7c9f)
